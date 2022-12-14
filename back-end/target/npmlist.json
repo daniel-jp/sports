@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"back-end","dependencies":{"@prisma/client":{"version":"4.7.0"},"cors":{"version":"2.8.5"},"express":{"version":"4.18.2"}}}
